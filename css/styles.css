@@ -1,17 +1,17 @@
 h1 {
-  color:purple;
-  font-family: fantasy;
+  color:beige;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h2 {
-  color:greenyellow;
+  color:gold;
 }
 
 p {
-  font-family:'Times New Roman', Times, serif;
-  color:gray;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:lightcoral;
 }
 
 ul {
-  font-weight: bold;
+  font-style: italic;
 }
