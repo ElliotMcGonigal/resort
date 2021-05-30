@@ -1,0 +1,17 @@
+h1 {
+  color:purple;
+  font-family: fantasy;
+}
+
+h2 {
+  color:greenyellow;
+}
+
+p {
+  font-family:'Times New Roman', Times, serif;
+  color:gray;
+}
+
+ul {
+  font-weight: bold;
+}
